@@ -1,2 +1,2 @@
-# Evan
-Evan‘s codes
+# 计算方法
+这是西安交通大学研究生课计算方法的matlab上机的代码
